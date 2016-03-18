@@ -17,4 +17,4 @@ In this code along exercise we will add column structure to our page layouts.
 
 Let's add some column structure!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Codealong-Creating-Columns' title='Codealong Creating Columns'>Codealong Creating Columns</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/tracks/full-stack-web-development/html-and-css/page-layout/codealong-creating-columns' title='Codealong Creating Columns'>Codealong Creating Columns</a> on Learn.co and start learning to code for free.</p>
