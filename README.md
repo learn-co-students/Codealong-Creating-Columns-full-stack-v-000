@@ -1,20 +1,5 @@
-# CSS Columns Codealong Exercise
+# Codealong Creating Columns
 
-## Overview
+<iframe width="640" height="480" src="//www.youtube.com/embed/zZpAqtEXse0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=zZpAqtEXse0">Codealong Creating Columns</a></p>
 
-In this code along exercise we will add column structure to our page layouts.
-
-## Steps
-
-1. Fork this repository.
-2. Clone your fork.
-3. cd into the folder for this lab.
-4. Code along with the included video below.
-
-## Code Along Exercise 4 ~ 28min
-
-<iframe width="100%" height="720" src="//www.youtube.com/embed/zZpAqtEXse0?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
-
-Let's add some column structure!
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Codealong-Creating-Columns' title='Codealong Creating Columns'>Codealong Creating Columns</a> on Learn.co and start learning to code for free.</p>
+Fork and clone this codealong to follow with the video.
